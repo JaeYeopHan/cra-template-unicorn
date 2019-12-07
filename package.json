@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-unicorn",
+  "private": false,
+  "version": "0.0.1",
+  "description": "The full template with redux-toolkit for Create React App.",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cra",
+    "cra-template",
+    "redux-toolkit-template"
+  ],
+  "author": "Jbee[ljyhanll@gmail.com]",
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaeYeopHan/cra-template-unicorn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaeYeopHan/cra-template-unicorn"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
