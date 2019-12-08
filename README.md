@@ -17,13 +17,13 @@ npx create-react-app my-app --template unicorn
 ### npm
 
 ```sh
-npm init my-app --template unicorn
+npm init react-app my-app --template unicorn
 ```
 
 ### yarn
 
 ```sh
-yarn create my-app --template unicorn
+yarn create react-app my-app --template unicorn
 ```
 
 ## In this template
@@ -35,8 +35,10 @@ yarn create my-app --template unicorn
 
 ## Support
 
-- reset.css
-- customize config with craco
+- Support VSCode Integration
+- Support reset.css
+- Customize config with craco
+- Customize eslint config > [link](https://create-react-app.dev/docs/advanced-configuration)
 
 ## Show your support
 
