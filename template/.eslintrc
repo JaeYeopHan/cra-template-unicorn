@@ -1,0 +1,9 @@
+{
+  "extends": ["react-app"],
+  "plugins": ["react-hooks", "simple-import-sort"],
+  "rules": {
+    "react-hooks/rules-of-hooks": "error",
+    "simple-import-sort/sort": "error",
+    "no-multiple-empty-lines": "error"
+  }
+}

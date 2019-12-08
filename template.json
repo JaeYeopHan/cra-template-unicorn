@@ -28,14 +28,6 @@
     "lint": "eslint ."
   },
   "eslintConfig": {
-    "extends": "react-app",
-    "plugins": ["react-hooks", "simple-import-sort"],
-    "rules": {
-      "react-hooks/rules-of-hooks": "error",
-      "simple-import-sort/sort": "error",
-      "semi": "error",
-      "no-multiple-empty-lines": "error"
-    },
-    "overrides": []
+    "extends": "react-app"
   }
 }
