@@ -1,11 +1,11 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { Provider } from "react-redux";
-import { Router } from "react-router-dom";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { Provider } from 'react-redux'
+import { Router } from 'react-router-dom'
 
-import App from "@/components/App";
-import store from "@/features";
-import history from "@/utils/history";
+import App from '@/components/App'
+import store from '@/features'
+import history from '@/utils/history'
 
 ReactDOM.render(
   <Provider store={store}>
@@ -14,4 +14,4 @@ ReactDOM.render(
     </Router>
   </Provider>,
   document.getElementById("root")
-);
+)
