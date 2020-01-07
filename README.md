@@ -42,6 +42,7 @@ yarn create react-app my-app --template unicorn
 - Support absolute path with TypeScript
 - Support VSCode Integration
 - Support reset.css
+- Support prettier
 - Customize config with craco
 - Customize eslint config > [link](https://create-react-app.dev/docs/advanced-configuration)
 
