@@ -8,6 +8,6 @@
     "comma-dangle": ["error", "always-multiline"],
     "eol-last": ["error", "always"],
     "semi": ["error", "never"],
-    "quotes": ["error", "double"]
+    "quotes": ["error", "single"]
   }
 }
