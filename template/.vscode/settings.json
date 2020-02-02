@@ -5,10 +5,10 @@
   "eslint.options": {
     "extensions": [".html", ".ts", ".js", ".tsx"]
   },
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
   "files.autoSaveDelay": 500,
   "eslint.packageManager": "yarn",
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
