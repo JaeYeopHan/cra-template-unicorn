@@ -37,6 +37,7 @@ yarn create react-app my-app --template unicorn
 - [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
 - [react-redux 7.1.x](https://github.com/reduxjs/react-redux)
 - [react-router](https://github.com/ReactTraining/react-router)
+- [emotion 10.x](https://github.com/emotion-js/emotion)
 
 ## Support
 
@@ -44,6 +45,7 @@ yarn create react-app my-app --template unicorn
 - Support VSCode Integration
 - Support reset.css
 - Support prettier
+- Support emotion source map
 - Customize config with craco
 - Customize eslint config > [link](https://create-react-app.dev/docs/advanced-configuration)
 
