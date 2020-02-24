@@ -14,6 +14,15 @@
     "@types/react-redux": "^7.1.5",
     "@types/react-router": "^5.1.3",
     "@types/react-router-dom": "^5.1.3",
+    "@storybook/addon-actions": "^5.3.13",
+    "@storybook/addon-console": "^1.2.1",
+    "@storybook/addon-links": "^5.3.13",
+    "@storybook/addon-viewport": "^5.3.13",
+    "@storybook/addons": "^5.3.12",
+    "@storybook/preset-create-react-app": "^1.5.2",
+    "@storybook/react": "^5.3.13",
+    "@types/storybook-react-router": "^1.0.1",
+    "storybook-react-router": "^1.0.8",
     "babel-plugin-emotion": "^10.0.27",
     "eslint-plugin-simple-import-sort": "^5.0.0",
     "react": "^16.12.0",
@@ -28,7 +37,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": "react-app"
