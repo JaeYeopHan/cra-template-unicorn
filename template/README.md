@@ -1,4 +1,4 @@
-![cra-template-unicorn_logo](./assets/logo.png)
+![cra-template-unicorn_logo](../assets/logo.png)
 
 # cra-template-unicorn
 
